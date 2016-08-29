@@ -61,7 +61,8 @@ If you have questions about whether or not your work adheres to these guidelines
 **Week 11: Sprint**
 
   * A working prototype with a GitHub URL that can be shared that includes:
-    * A **working API**, hosted somewhere on the internet
+    * A basic, functioning user interface
+    * A successfull call to a web API, made NOT on the main/UI thread
 
   * In your GitHub repository, **a ``readme.md`` file** with the following added:
       * An embedded screenshot of the prototype
@@ -73,8 +74,8 @@ If you have questions about whether or not your work adheres to these guidelines
   * A 10 minute presentation on your application (7 mins) and process (3 mins)
   * A **git repository hosted on GitHub**, with a link to your hosted project, and frequent commits dating back to the very beginning of the project
   * A **link to your app on Google Play** in the URL section of your GitHub repo
-  * A **working API**, hosted somewhere on the internet
-  * A **working front-end**, hosted somewhere on the internet
+  * **Succesfull API calls** to save and/or retrieve data from the internet
+  * A **polished user interface** reflecting Material Design principles
   * In the **`readme.md` file**:
 
       * A screenshot of at least one screen of the working application
@@ -142,7 +143,7 @@ Create an app that makes finding an apartment or job easier. Maybe there is a wa
 
 * __Code Quality__: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming? Did you comment your code as your instructors as we have in class?
 
-* __Problem Solving__: Are you able to defend why you implemented your solution in a certain way? Can you demonstrated that you thought through alternative implementations? _(Note that this part of your feedback evaluation will take place during your one-on-one code review with your instructors, after you've completed the project.)_
+* __Problem Solving__: Are you able to defend why you implemented your solution in a certain way? Can you demonstrated that you thought through alternative implementations? _(Note that this part of your feedback evaluation will take place during your presentation to your instructors, after you've completed the project.)_
 
 * __Total__: Your instructors will give you a total score on your project between:
 
@@ -151,9 +152,8 @@ Create an app that makes finding an apartment or job easier. Maybe there is a wa
     **0** | _Incomplete._
     **1** | _Does not meet expectations._
     **2** | _Meets expectations, good job!_
-    **3** | _Exceeds expectations, you wonderful creature, you!_
 
- This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
+ This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for future projects!
 
 ---
 
