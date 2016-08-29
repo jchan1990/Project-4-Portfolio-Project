@@ -72,7 +72,7 @@ If you have questions about whether or not your work adheres to these guidelines
 **Week 12: Sprint, QA, Present**
 
   * A 10 minute presentation on your application (7 mins) and process (3 mins)
-  * A **git repository hosted on GitHub**, with a link to your hosted project, and frequent commits dating back to the very beginning of the project
+  * A **Git repository hosted on GitHub** and frequent commits dating back to the very beginning of the project
   * A **link to your app on Google Play** in the URL section of your GitHub repo
   * **Succesfull API calls** to save and/or retrieve data from the internet
   * A **polished user interface** reflecting Material Design principles
@@ -139,7 +139,7 @@ Create an app that makes finding an apartment or job easier. Maybe there is a wa
 
 * __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
 
-* __Creativity__: Did you added a personal spin or creative element into your project submission? Did you deliver something of value to the end user (not just a login button and an index page)?
+* __Creativity__: Did you added a personal spin or creative element into your project submission? Did you deliver something non-trivial and of value to the end user?
 
 * __Code Quality__: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming? Did you comment your code as your instructors as we have in class?
 
