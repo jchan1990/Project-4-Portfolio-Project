@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Guess Who Marvel</string>
+    <string name="public_api_key">f427313671af42429f70fc4a7c8c1a08</string>
+    <string name="private_api_key">4424727d0a2d913573f340d2a2c83a6d7470a992</string>
+</resources>
